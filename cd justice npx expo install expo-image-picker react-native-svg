@@ -1,0 +1,2 @@
+cd justice
+npx expo install expo-image-picker react-native-svg
